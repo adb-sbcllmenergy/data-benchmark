@@ -1,0 +1,3 @@
+[submodule "distributed-llama"]
+	path = distributed-llama
+	url = https://github.com/hellomatik-org/distributed-llama/
